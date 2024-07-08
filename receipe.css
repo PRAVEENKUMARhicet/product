@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    background-color: antiquewhite;
+}
+
+header h1{
+    text-align: center;
+    background-color: rgb(27, 27, 138);
+    color: whitesmoke;
+    padding: 10px 0px;
+}
+
+.full{
+    margin-top: 100px;
+    
+}
+.content{
+    margin: 30px 200px;
+    border: 2px solid black;
+    font-size: large;
+    font-weight: 500;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+
+.ingredient{
+    margin: 30px 200px;
+    border: 2px solid black;
+    font-size: large;
+    font-weight: 500;
+    padding: 10px 20px;
+    margin: 30px 200px;
+    border-radius: 10px;
+}
+
+.instruction{
+    margin: 30px 20px;
+    border: 2px solid black;
+    font-size: large;
+    font-weight: 500;
+    margin: 30px 200px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
